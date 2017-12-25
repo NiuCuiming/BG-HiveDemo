@@ -6,5 +6,6 @@ public class HiveUDF {
         System.out.println("hello word!");
         System.out.println("hello Git!");
         System.out.println("I make a change!");
+        System.out.println("I make a change on web-site!");
     }
 }
